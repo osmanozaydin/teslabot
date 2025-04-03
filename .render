@@ -1,0 +1,2 @@
+buildCommand = ""
+startCommand = "python tesla_tracker.py"
