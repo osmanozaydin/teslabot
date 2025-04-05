@@ -7,5 +7,5 @@ services:
       dockerfile: Dockerfile
     container_name: tesla-proxy
     ports:
-      - "8081:80"
+      - "8082:80"
     restart: unless-stopped
